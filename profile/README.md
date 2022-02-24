@@ -25,19 +25,19 @@
 
 #### System Architecture
 
-  <img src="./img/Architecture Diagram.jpeg"></img>
+  <img src="https://github.com/PURDUE-CROFFLEMAKERS/.github/blob/master/profile/img/Architecture%20Diagram.jpeg"></img>
   
 #### Flowchart
 
    **on-service**
   this is the diagram when system is on-service
-  <img src="https://github.com/PURDUE-CROFFLEMAKERS/.github/blob/master/profile/img/Architecture%20Diagram.jpeg"></img>
+  <img src="https://github.com/PURDUE-CROFFLEMAKERS/.github/blob/master/profile/img/Flowchart%20-%20Service.jpeg"></img>
 
   **personalize**
   process for collecting personalized data before system go on-service
   collecting personal data and calculate average of those data
-  <img src="./img/Flowchart - Personalize1.jpeg"></img>
-  <img src="./img/Flowchart - Personalize2.jpeg"></img>
+  <img src="https://github.com/PURDUE-CROFFLEMAKERS/.github/blob/master/profile/img/Flowchart%20-%20Personalize1.jpeg"></img>
+  <img src="https://github.com/PURDUE-CROFFLEMAKERS/.github/blob/master/profile/img/Flowchart%20-%20Personalize2.jpeg"></img>
 
 
 ## Environment Setting
