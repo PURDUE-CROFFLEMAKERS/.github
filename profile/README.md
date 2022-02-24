@@ -31,7 +31,7 @@
 
    **on-service**
   this is the diagram when system is on-service
-  <img src="./img/Flowchart - Service.jpeg"></img>
+  <img src="https://github.com/PURDUE-CROFFLEMAKERS/.github/blob/master/profile/img/Architecture%20Diagram.jpeg"></img>
 
   **personalize**
   process for collecting personalized data before system go on-service
