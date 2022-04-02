@@ -34,7 +34,7 @@
   <img src="https://github.com/PURDUE-CROFFLEMAKERS/.github/blob/master/profile/img/Flowchart%20-%20Service.jpeg"></img>
 
   **personalize**
-  process for collecting personalized data before system go on-service
+  process for collecting personalized data before system go on-service   
   collecting personal data and calculate average of those data
   <img src="https://github.com/PURDUE-CROFFLEMAKERS/.github/blob/master/profile/img/Flowchart%20-%20Personalize1.jpeg"></img>
   <img src="https://github.com/PURDUE-CROFFLEMAKERS/.github/blob/master/profile/img/Flowchart%20-%20Personalize2.jpeg"></img>
